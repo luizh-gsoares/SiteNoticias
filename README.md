@@ -1,27 +1,14 @@
-# CodeIgniter 4 Application Starter
+# Site de Notícias
 
-## What is CodeIgniter?
+## Qual framework estou utilizando?
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
+Neste projeto estou usando o CodeIgniter 4, que é um framework full-stack baseado em PHP. Optei por utiliza-lo por ser leve, seguro e rápido.
+Para instalar ou saber mais sobre o CodeIgniter, acesse o [site](http://codeigniter.com).
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+## Instalação
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+`instalar o composer` e então `atualizar` sempre que houver, se atentando.
 
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-## Installation & updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
 
 ## Setup
 
