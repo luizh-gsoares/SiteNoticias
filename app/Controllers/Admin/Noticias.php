@@ -71,7 +71,7 @@ class Noticias extends BaseController
                 'titulo'    => ['label' => 'Titulo', 'rules' => 'required|min_length[3]'],
                 'resumo'    => ['label' => 'Resumo',  'rules' => 'required|min_length[3]'],
                 'conteudo'  => ['label' => 'conteudo',  'rules' => 'required|min_length[3]'],
-                'categoria' => ['label' => 'categoria',  'rules' => 'required|min_length[3]'],
+                'categoria' => ['label' => 'categoria', 'rules' => 'required'],
             ]
         )) {
 

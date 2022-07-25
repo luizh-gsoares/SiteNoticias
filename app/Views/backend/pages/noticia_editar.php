@@ -23,7 +23,7 @@
                      <h6 class="m-0 font-weight-bold text-primary">Editar Noticia</h6>
                  </div>
                  <div class="card-body">
-                     <form action="<?= base_url('admin/noticia/gravar') ?>" method="post" enctype="multipart/form-data">
+                     <form action="<?= base_url('admin/noticias/gravar') ?>" method="post" enctype="multipart/form-data">
 
                          <div class="form-group">
                              <div class="checkbox">
